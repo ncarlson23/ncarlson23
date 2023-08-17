@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nina Carlson.
-- 👀 I’m interested in web development and software engineering. 
-- 🌱 I’m an incoming software engineering intern at Microsoft!
+- 👀 I’m interested in software engineering and generative AI technologies. 
+- 🌱 I am a software engineer intern at Microsoft!
 - 📫 How to reach me: ncarlson@clarku.edu, https://www.linkedin.com/in/ninacarlson23/
 
 <!---
