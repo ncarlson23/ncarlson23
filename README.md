@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nina Carlson.
-- 👀 I’m interested in software development with a specific focus on backend engineering I am also interested in AI and ML. 
+- 👀 I’m interested in software development with a specific focus on backend engineering. I am also interested in AI and ML. 
 - 🌱 I am an incoming software engineer at Microsoft!
 - 📫 How to reach me: ncarlson@clarku.edu, https://www.linkedin.com/in/ninacarlson23/
 
